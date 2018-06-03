@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="InitSceneSkin" width="1136" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="163c6a2cc02" ></w:Config>
+	<e:Rect left="0" right="0" top="0" bottom="0"/>
+	<e:Button label="Button" x="119" y="97"/>
+</e:Skin>

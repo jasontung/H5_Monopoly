@@ -14,6 +14,8 @@ declare module skins{
 	class HSliderSkin extends eui.Skin{
 	}
 }
+declare class InitSceneSkin extends eui.Skin{
+}
 declare module skins{
 	class ItemRendererSkin extends eui.Skin{
 	}

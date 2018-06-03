@@ -1,0 +1,17 @@
+{
+    "163c6664988": {
+        "path": "InitScene.ts",
+        "class": "InitScene",
+        "parentPath": ""
+    },
+    "163c6a045d6": {
+        "path": "core\\views\\scenes\\testScene.ts",
+        "class": "testScene",
+        "parentPath": ""
+    },
+    "163c6a2cc02": {
+        "path": "core\\views\\scenes\\InitScene.ts",
+        "class": "InitScene",
+        "parentPath": ""
+    }
+}
